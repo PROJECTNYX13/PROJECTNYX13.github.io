@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NYX FILE-13</title>
+  <meta name="description" content="PHASE I — STABILIZATION. Transmission pending.">
+  <style>
+    :root { color-scheme: dark; }
+    body {
+      margin: 0;
+      background: #050607;
+      color: #e9eef2;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+                   "Liberation Mono","Courier New", monospace;
+    }
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 60px 20px;
+    }
+    .badge {
+      display: inline-block;
+      border: 1px solid #2a2f33;
+      padding: 10px 14px;
+      margin: 6px 6px 0 0;
+      font-size: 12px;
+      letter-spacing: 0.16em;
+    }
+    h1 {
+      margin: 28px 0 20px;
+      font-size: 34px;
+      letter-spacing: 0.14em;
+    }
+    h2 {
+      margin: 42px 0 14px;
+      font-size: 13px;
+      letter-spacing: 0.18em;
+      opacity: 0.9;
+    }
+    p {
+      line-height: 1.65;
+      opacity: 0.95;
+      margin: 10px 0;
+    }
+    .divider {
+      height: 1px;
+      background: #1b1f23;
+      margin: 28px 0;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 14px;
+      padding: 12px 16px;
+      border: 1px solid #e9eef2;
+      color: #e9eef2;
+      text-decoration: none;
+      letter-spacing: 0.08em;
+    }
+    a.button:hover { opacity: 0.85; }
+    .small {
+      font-size: 12px;
+      opacity: 0.7;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="badge">PHASE I — STABILIZATION</div>
+    <div class="badge">TRANSMISSION PENDING</div>
+
+    <h1>NYX FILE-13</h1>
+
+    <p>Observation is active.</p>
+    <p>Systems are being evaluated for stability, repetition, and compliance.</p>
+    <p>Do not anticipate. Do not interpret. Observe.</p>
+
+    <div class="divider"></div>
+
+    <h2>GROUP 7 ACCESS</h2>
+    <p>Entry is conditional. Proceed only if signal consistency is maintained.</p>
+    <a class="button" href="https://t.me/NyxFile13Group7" target="_blank" rel="noopener">
+      ENTER GROUP 7
+    </a>
+
+    <div class="divider"></div>
+
+    <h2>TRANSMISSION LOG</h2>
+    <p class="small">Public archive unavailable. Select data will surface when required.</p>
+
+    <div class="divider"></div>
+
+    <h2>DISCLAIMER</h2>
+    <p class="small">
+      This website is a fictional ARG / art project.  
+      No claims of fact. No instructions.  
+      Participation is voluntary.
+    </p>
+
+  </div>
+</body>
+</html>
